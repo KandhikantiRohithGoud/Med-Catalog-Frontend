@@ -55,10 +55,5 @@ npm install
 
 # Start the development server
 npm start
-//Make sure your backend is running at https://med-catalog.onrender.com or update the API base URL in your Axios calls.
 
-## 📬 About Me
-Hi, I’m Kandhikanti Rohith Goud, an aspiring software engineer passionate about building real-world applications. Feel free to check out my GitHub or reach out if you'd like to collaborate!
-GitHub:@KandhikantiRohithGoud
----
-Let me know when you're ready for the backend README or want help adding screenshots.
+//Make sure your backend is running at https://med-catalog.onrender.com or update the API base URL in your Axios calls.
